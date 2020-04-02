@@ -1,0 +1,15 @@
+site:
+  name: Association Tunisienne du Patrimoine Partagé «Thaqâfât»
+  number_visits: Le nombre de visites sur le site
+
+navbar:
+  home: Accueil
+  membres: Membres et fondateurs
+  activities: Activités et programmes
+  affliation: Affiliation
+  newsletter: Bulletin
+  openData: Données ouvertes
+  news: Actualités
+  contact: Contactez-nous
+  language: Langue
+  choose: Choix langue

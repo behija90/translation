@@ -1,0 +1,15 @@
+site:
+  name: الجمعية التونسية للتراث المشترك "ثقــافــات"
+  number_visits: عدد الزيارات للموقع
+
+navbar:
+  home: الرئيسية
+  membres: الأعضاء المؤسسون
+  activities: الأنشطة والبرامج
+  affliation: الانخراط
+  newsletter: نشرية ثقافات
+  openData: البيانات المفتوحة
+  news: الأخبار 
+  contact: إتصل بنا
+  language: اللغة
+  choose: اختيار اللغة

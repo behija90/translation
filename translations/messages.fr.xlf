@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="ar" target-language="fr" datatype="plaintext" original="file.ext">
+    <header>
+      <tool tool-id="symfony" tool-name="Symfony"/>
+    </header>
+    <body>
+      <trans-unit id="dffZERE" resname="site.name">
+        <source>site.name</source>
+        <target>Association Tunisienne du Patrimoine Partagé «Thaqâfât»</target>
+      </trans-unit>
+      <trans-unit id="bjXSDGK" resname="site.number_visits">
+        <source>site.number_visits</source>
+        <target>Le nombre de visites sur le site</target>
+      </trans-unit>
+      <trans-unit id="0umDnnC" resname="navbar.home">
+        <source>navbar.home</source>
+        <target>Accueil</target>
+      </trans-unit>
+      <trans-unit id="1Ud9yCR" resname="navbar.membres">
+        <source>navbar.membres</source>
+        <target>Membres et fondateurs</target>
+      </trans-unit>
+      <trans-unit id="WLEXhMa" resname="navbar.activities">
+        <source>navbar.activities</source>
+        <target>Activités et programmes</target>
+      </trans-unit>
+      <trans-unit id="8b2tLkE" resname="navbar.affliation">
+        <source>navbar.affliation</source>
+        <target>Affiliation</target>
+      </trans-unit>
+      <trans-unit id="kTmoG2f" resname="navbar.newsletter">
+        <source>navbar.newsletter</source>
+        <target>Bulletin</target>
+      </trans-unit>
+      <trans-unit id="BDJFj4w" resname="navbar.openData">
+        <source>navbar.openData</source>
+        <target>Données ouvertes</target>
+      </trans-unit>
+      <trans-unit id="c.mc1LM" resname="navbar.news">
+        <source>navbar.news</source>
+        <target>Actualités</target>
+      </trans-unit>
+      <trans-unit id="iVNeBrZ" resname="navbar.contact">
+        <source>navbar.contact</source>
+        <target>Contactez-nous</target>
+      </trans-unit>
+      <trans-unit id="sqzonMT" resname="navbar.language">
+        <source>navbar.language</source>
+        <target>Langue</target>
+      </trans-unit>
+      <trans-unit id="kkY1XIp" resname="navbar.choose">
+        <source>navbar.choose</source>
+        <target>Choix langue</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
